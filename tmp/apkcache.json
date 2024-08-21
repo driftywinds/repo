@@ -243,5 +243,176 @@
     "apkName": "drifty's RVX (inotia00) v19.28.35.apk",
     "icon": "app.dwrv.android.youtube.1547296192.png",
     "added": 1724223477.946407
+  },
+  "drifty's RVX Music (inotia00) v7.13.52.apk": {
+    "hash": "353d469e908bf64665596036c80e4f57912334df1633d17820dae8d589e60ae7",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        30
+      ],
+      [
+        "android.permission.BLUETOOTH_ADMIN",
+        30
+      ],
+      [
+        "android.permission.BLUETOOTH_SCAN",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_ADVERTISE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH_CONNECT",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.READ_MEDIA_AUDIO",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        30
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "app.revanced.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        22
+      ],
+      [
+        "android.permission.MANAGE_ACCOUNTS",
+        22
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        22
+      ],
+      [
+        "com.google.android.gms.permission.ACTIVITY_RECOGNITION",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.RUN_USER_INITIATED_JOBS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "app.dwrv.android.apps.youtube.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "android.permission.REQUEST_COMPANION_START_FOREGROUND_SERVICES_FROM_BACKGROUND",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ]
+    ],
+    "features": [
+      "android.hardware.screen.portrait"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher_release.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher_release.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher_release.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher_release.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher_release.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher_release.png"
+    },
+    "icons": {
+      "640": "app.dwrv.android.apps.youtube.music.71352240.png",
+      "480": "app.dwrv.android.apps.youtube.music.71352240.png",
+      "320": "app.dwrv.android.apps.youtube.music.71352240.png",
+      "240": "app.dwrv.android.apps.youtube.music.71352240.png",
+      "160": "app.dwrv.android.apps.youtube.music.71352240.png",
+      "0": "app.dwrv.android.apps.youtube.music.71352240.png"
+    },
+    "antiFeatures": [],
+    "packageName": "app.dwrv.android.apps.youtube.music",
+    "versionCode": 71352240,
+    "name": "YTM (dw)",
+    "versionName": "7.13.52",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "b7db7837c454e864597c295545de473c",
+    "signer": "ec7ab66cde266ad383aee392e3b64b46d6c8ddfb828d31c8160ed831eca26123",
+    "size": 52411631,
+    "apkName": "drifty's RVX Music (inotia00) v7.13.52.apk",
+    "icon": "app.dwrv.android.apps.youtube.music.71352240.png",
+    "added": 1724236526.908461
   }
 }
